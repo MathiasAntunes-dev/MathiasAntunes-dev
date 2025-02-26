@@ -1,16 +1,20 @@
-## Hi there 👋
+# Este sou eu
 
-<!--
-**MathiasAntunes-dev/MathiasAntunes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o **Mathias Antunes**, <ins>estudande</ins> SESI/SENAI, gosto de dormir zzz...
 
-Here are some ideas to get you started:
+## Formação acadêmica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou cursando o Ensino Médio (2º ano) junto com um Curso Técnico em Desenvolvimento de Sistemas
+
+Posso escrever um pequeno trecho de código como `git status` ou então trechos maiores como o abaixo:
+
+```javascript
+const constante = 0; //constante precisa ser inicializada
+```
+
+```python
+def ola_mundo() {
+  print('Olá, Mundo!')
+}
+```
+
